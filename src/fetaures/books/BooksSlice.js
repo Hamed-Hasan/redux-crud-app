@@ -3,8 +3,8 @@ const { v4: uuidv4 } = require("uuid");
 
 const initialBooks = {
   books: [
-    { id: uuidv4(), title: "Love Bangladesh", author: "Anisul Islam" },
-    { id: uuidv4(), title: "Bangladeshi", author: "Anisul Islam" },
+    { id: uuidv4(), title: "Love Bangladesh", author: "Hamed" },
+    { id: uuidv4(), title: "Bangladeshi", author: "Hamed" },
   ],
 };
 
